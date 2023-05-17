@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aakriti-dot&label=Profile%20views&color=0e75b6&style=flat" alt="aakriti-dot" /> </p>
 
-- 🔭 I’m currently working on **video classification**
+- 🔭 I’m currently working on **video classification**.
 
-- 🌱 Learning **transfer learning for image classification**
+- 🌱 Learning **transfer learning for image classification**.
 
-- 👯 I’m looking to collaborate on **data science projects**
+- 👯 I’m looking to collaborate on **data science projects**.
 
 - 💬 Ask me about **data science, analytics**
 
