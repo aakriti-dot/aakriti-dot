@@ -1,7 +1,7 @@
 ![MasterHead](https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-shrink_600_2000/0/1626753867110?e=2147483647&v=beta&t=Kf7YAuwZtyCGYLNch-Mgc5eOC-7h7uL_dnBAIgsAFRQ)
 <h1 align="center">Hi 👋, I'm Aakriti</h1>
 <h3 align="center">A dedicated data science professional pursuing masters in Applied Data Science from University of Southern California.</h3>
-<img align=“right” alt=“Coding” width=“100” src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif">
+<img align=“right” alt=“Coding” width=“20” src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aakriti-dot&label=Profile%20views&color=0e75b6&style=flat" alt="aakriti-dot" /> </p>
 
@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me on:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/aakriti-nag-4827a31a5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aakriti-nag-4827a31a5/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aakriti-nag-4827a31a5/" target="blank"><img align="center" alt="https://www.linkedin.com/in/aakriti-nag-4827a31a5/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
