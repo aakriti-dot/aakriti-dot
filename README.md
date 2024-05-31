@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Aakriti</h1>
 <img align=“right” alt=“Coding” width=“100” src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif">
 
-- 🔭 I’m currently working on **video classification**.
+- 🔭 I’m currently working on **text classification**.
 
-- 🌱 Learning **transfer learning for image classification**.
+- 🌱 Learning **NLP techniques**.
 
 - 👯 I’m looking to collaborate on **data science projects**.
 
