@@ -4,13 +4,13 @@
 
 - 🔭 I’m currently working on **text classification**.
 
-- 🌱 Learning **NLP techniques**.
+- 🌱 Learning new **NLP techniques**.
 
 - 👯 I’m looking to collaborate on **data science projects**.
 
 - 💬 Ask me about **data science, analytics**
 
-- 📫 Reach me on **aakritin@usc.edu**
+- 📫 Reach me on **aakritinag04@gmail.com**
 
 - ⚡ Fun fact **I am funny sometimes **
 
